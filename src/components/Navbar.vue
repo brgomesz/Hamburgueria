@@ -39,7 +39,7 @@ export default {
 }
 
 #nav a {
-  color: yellow;
+  color: rgb(251, 255, 0);
   text-decoration: none;
   margin: 12px;
   transition: .5s;
